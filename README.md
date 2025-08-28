@@ -1,5 +1,3 @@
-Here’s the finalized README.md file for your Library Management System project:
-
 # 📚 Library Management System (SQL Project)
 
 ## ✅ Project Overview
