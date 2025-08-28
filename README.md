@@ -51,8 +51,8 @@ It simulates real-world library operations like book borrowing, returning, and f
 ## ⚙ Setup Instructions
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/your-username/library-management-system.git
-   cd library-management-system
+   git clone https://github.com/pawanukale/library-management-system.git
+   cd Library-Management-System-SQL-Project
 
 
 Open MySQL and Run the SQL Script
